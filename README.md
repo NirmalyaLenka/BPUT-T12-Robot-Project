@@ -239,6 +239,16 @@ MIT, see [`LICENSE`](LICENSE). The copyright holder line is a placeholder: fill 
 
 ---
 
+## Skills & technologies
+
+`Arduino/C++` · `C/C++`
+
+
+## How it works
+
+The main firmware sketch is `src/main.ino`. Open it in Arduino IDE, verify the board, pin mapping and library requirements, then compile and upload. Test hardware behaviour on the real circuit before relying on it.
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
